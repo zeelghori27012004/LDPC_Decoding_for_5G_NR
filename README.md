@@ -17,9 +17,6 @@ This repository contains the documentation, analysis, and simulation results of 
 - [Monte Carlo Simulation](#monte-carlo-simulation)
 - [Performance Analysis](#performance-analysis)
 - [Conclusion](#conclusion)
-- [Team Members](#team-members)
-- [References](#references)
-- [Honour Code](#honour-code)
 
 ##  Overview
 
